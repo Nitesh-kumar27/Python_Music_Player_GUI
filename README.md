@@ -23,6 +23,8 @@ Cross-Platform Compatibility: Enjoy PyMelody's seamless performance across multi
 Playlist Management: Create, edit, and manage your playlists effortlessly with PyMelody. Add or remove tracks, rearrange the playback order, and save your playlists for future listening sessions.
 
 Support for Various Audio Formats: PyMelody supports a wide range of audio formats, including MP3, WAV, FLAC, AAC, and more, ensuring compatibility with your entire music library.
+![image](https://github.com/Nitesh-kumar27/Python_Music_Player_GUI/assets/103721139/0090875e-2718-4f99-b374-a9736c74ddbc)
+
 
 Technical Details:
 
